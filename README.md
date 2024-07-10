@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Algazee
+- 👋 Hi, I’m Algazaly Albashir 
 - 👀 I’m interested in mobile app development.
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on projects in mobile and web applications  
